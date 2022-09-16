@@ -1,6 +1,6 @@
 ---
 version: 1
 repository:
-  owner:
-  tier: tier_1
+  owner: jason
+  tier: tier_4
   tags:
